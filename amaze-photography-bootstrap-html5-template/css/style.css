@@ -611,7 +611,7 @@ div#main-nav {
 
 #service {
     padding: 60px 0px;
-    background: url('../img/slide4.jpg') top left no-repeat !important;
+    background: url('../img/slide3.jpg') top left no-repeat !important;
 }
 #service h2{
   color: #fff;
@@ -671,12 +671,12 @@ margin: 35px 0 15px;
 #service h6{
 color:#fff;
 }
-.service_block p {
+/* .service_block p {
     font-size: 16px;
     color: #A5A5A5;
     margin: 0 0 35px 0; 
 }
-	
+	 */
 
 
 /* Latest Work
